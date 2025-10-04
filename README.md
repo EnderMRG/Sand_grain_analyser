@@ -1,4 +1,4 @@
-# Beach-Sand-Grain-Analysis
+# ShoreScan
 
 🔹 Description
 
